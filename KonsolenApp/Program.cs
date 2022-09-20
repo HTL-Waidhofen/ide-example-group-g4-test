@@ -13,6 +13,7 @@ namespace KonsolenApp
             Console.WriteLine("Dies ist eine Testausgabe");
             Console.WriteLine("Gruppe4");
             Console.ReadLine();
+            Console.WriteLine("dies ist ein anderse teset");
         }
     }
 }
